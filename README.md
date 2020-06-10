@@ -9,5 +9,8 @@ O projeto é um marketplace de coleta de resíduos, desenvolvido ao longo da pri
 <h1>Stack</h1>
 
   O projeto tem o front-end feito com Reactjs, Mobile feito com React-native e Expo cli, e o Backend feito com Nodejs, Express, Knex e SQLite. Todas essas Stacks utilizando o Typescript, um superconjunto sensacional de Javascript!
+  
+  Para o deploy o banco de dados da aplicação foi substituido de SQLite para PostgreSQL para conseguir se integrar com o heroku!
+  <h3>Link para o site: https://jlwolff.github.io/ecoleta-frontend/<h3>
 
 
